@@ -136,7 +136,7 @@ Pp(
     it=True,
 )
 Pp(
-    'Hashem Mohammad and Ali Alsayegh, University of Strathclyde. All quantities are in engine cycles unless stated. LR: linear regression; RF: random forest; GB: gradient boosting; CNN: 1D convolutional reference. "Nested" refers to the nested engine-grouped validation of Sect. 3.4; P1 and P2 are the two repeated shuffled partitions (non-nested calibration, margins re-estimated).'
+    'Hashem Mohammad and Ali Alsayegh, University of Strathclyde. Code and data: https://doi.org/10.5281/zenodo.23378792. All quantities are in engine cycles unless stated. LR: linear regression; RF: random forest; GB: gradient boosting; CNN: 1D convolutional reference. "Nested" refers to the nested engine-grouped validation of Sect. 3.4; P1 and P2 are the two repeated shuffled partitions (non-nested calibration, margins re-estimated).'
 )
 # ---------------- S0 procedure
 H("S0 Resampling and Statistical Procedure")
@@ -542,7 +542,7 @@ cap(
 )
 table(rows, [9, 13, 14, 41, 41, 41, 41, 41], 8, groups)
 Pp(
-    "Code, model predictions and all intermediate results: https://github.com/toochii2/isdia2027-rul-decision-evaluation",
+    "Code, model predictions and all intermediate results: https://github.com/toochii2/isdia2027-rul-decision-evaluation (archived at https://doi.org/10.5281/zenodo.23378792)",
     it=True,
     size=9.5,
 )
