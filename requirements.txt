@@ -1,0 +1,9 @@
+# Tested with Python 3.13 on Linux (CPU only)
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.5
+joblib>=1.4
+torch>=2.3          # CNN reference model only
+matplotlib>=3.9     # figures only
+python-docx>=1.1    # rebuilding the supplementary document only

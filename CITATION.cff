@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or the supplementary material, please cite it as below."
+title: "Lowest Error, Best Decision? Code and supplementary material for evaluating remaining useful life models for turbofan maintenance"
+type: software
+version: 1.0.0
+date-released: 2026-10-14
+license: MIT
+repository-code: "https://github.com/toochii2/isdia2027-rul-decision-evaluation"
+authors:
+  - family-names: Mohammad
+    given-names: Hashem
+    affiliation: "Department of Design, Manufacturing and Engineering Management, University of Strathclyde, Glasgow, UK"
+  - family-names: Alsayegh
+    given-names: Ali
+    affiliation: "Department of Design, Manufacturing and Engineering Management, University of Strathclyde, Glasgow, UK"
+    email: a.alsayegh@strath.ac.uk
+keywords:
+  - remaining useful life
+  - predictive maintenance
+  - model selection
+  - equivalence testing
+  - nested cross-validation
+  - C-MAPSS
+  - trustworthy AI
