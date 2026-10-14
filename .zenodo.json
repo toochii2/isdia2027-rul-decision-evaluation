@@ -3,10 +3,23 @@
   "upload_type": "software",
   "description": "Code, model predictions, results and supplementary material accompanying the paper 'Lowest Error, Best Decision? Accuracy Equivalence and Lead-Time-Dependent Rankings of Remaining Useful Life Models for Turbofan Maintenance' (ISDIA 2027). The repository reproduces every reported result on the NASA C-MAPSS turbofan benchmark: engine-grouped cross-validation of four tabular regressors and a 1D-CNN reference, practical equivalence testing of accuracy, a decision lens with alarm margins calibrated to a common miss target under nested engine-grouped validation, and bootstrap intervals that include margin re-estimation.",
   "creators": [
-    {"name": "Mohammad, Hashem", "affiliation": "University of Strathclyde"},
-    {"name": "Alsayegh, Ali", "affiliation": "University of Strathclyde"}
+    {
+      "name": "Mohammad, Hashem",
+      "affiliation": "University of Strathclyde"
+    },
+    {
+      "name": "Alsayegh, Ali",
+      "affiliation": "University of Strathclyde"
+    }
   ],
-  "license": "MIT",
-  "keywords": ["remaining useful life", "predictive maintenance", "model selection", "equivalence testing", "nested cross-validation", "C-MAPSS", "trustworthy AI"],
-  "access_right": "open"
+  "license": "mit",
+  "keywords": [
+    "remaining useful life",
+    "predictive maintenance",
+    "model selection",
+    "equivalence testing",
+    "nested cross-validation",
+    "C-MAPSS",
+    "trustworthy AI"
+  ]
 }
