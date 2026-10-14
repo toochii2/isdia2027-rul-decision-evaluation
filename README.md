@@ -2,6 +2,7 @@
 
 **Accuracy equivalence and lead-time-dependent rankings of remaining useful life models for turbofan maintenance**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23378792.svg)](https://doi.org/10.5281/zenodo.23378792)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Data](https://img.shields.io/badge/data-NASA%20C--MAPSS-lightgrey)
@@ -141,8 +142,13 @@ across hardware, PyTorch versions and thread counts.
 
 ## Citation
 
-If you use this code or the supplementary material, please cite the paper and this repository
-(see [`CITATION.cff`](CITATION.cff); GitHub's "Cite this repository" button gives formatted entries).
+If you use this code or the supplementary material, please cite the paper and this archive:
+
+> H. Mohammad and A. Alsayegh, *Lowest Error, Best Decision? Code and supplementary material for evaluating
+> remaining useful life models for turbofan maintenance*, Zenodo, 2026. https://doi.org/10.5281/zenodo.23378792
+
+The DOI above always resolves to the latest version; version 1.0.1 is https://doi.org/10.5281/zenodo.23378793.
+GitHub's "Cite this repository" button gives formatted entries from [`CITATION.cff`](CITATION.cff).
 
 ## Licence
 

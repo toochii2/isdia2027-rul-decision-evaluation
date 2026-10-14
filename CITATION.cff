@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code or the supplementary material, please cite it as below."
 title: "Lowest Error, Best Decision? Code and supplementary material for evaluating remaining useful life models for turbofan maintenance"
 type: software
-version: 1.0.0
+version: 1.0.1
+doi: 10.5281/zenodo.23378792
 date-released: 2026-10-14
 license: MIT
 repository-code: "https://github.com/toochii2/isdia2027-rul-decision-evaluation"
