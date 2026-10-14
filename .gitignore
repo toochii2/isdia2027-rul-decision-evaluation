@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Raw data (download separately, see data/README.md)
+data/*
+!data/README.md
+
+# Decompressed predictions (committed compressed in results/predictions/)
+results/cv_*.json
+results/cnn_FD00*.json
+results/nested_FD00*.json
+results/nestedcnn_FD00*.json
+results/cnn_floor_*FD001.json
+*.tmp
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+docs/*.docx
+
+# Paper figures are regenerated with 'make figures' and not committed
+results/figures/fig2_*.png
+results/figures/fig3_*.png
